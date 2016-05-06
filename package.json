@@ -11,6 +11,23 @@
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^0.8.6",
-    "mysql": "^2.10.2"
+    "body-parser": "^1.15.0",
+    "cookie-parser": "^1.4.1",
+    "express": "^4.13.4",
+    "mysql": "^2.10.2",
+    "node-sass": "^3.7.0",
+    "nodemon": "^1.9.2",
+    "path": "^0.12.7",
+    "react": "^15.0.2",
+    "react-dom": "^15.0.2",
+    "secure-random": "^1.1.1"
+  },
+  "devDependencies": {
+    "babel-preset-react": "^6.5.0"
+  }
+}
+{
+  "babel": {
+    "presets": ["react"]
   }
 }
